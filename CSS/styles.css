@@ -1,3 +1,22 @@
+@font-face {
+  font-family: "BootsAndSpurs";
+  src: url("../fonts/BootsAndSpurs.ttf") format("truetype");
+}
+
+body {
+  font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2,
+.logo {
+  font-family: "BootsAndSpurs", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.product-list h2 {
+  font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+}
+
 header,
 footer {
   background-color: #202020;
